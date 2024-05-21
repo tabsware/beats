@@ -58,7 +58,7 @@ pytest-timeout==1.4.2
 python-dotenv==0.21.1
 PyYAML==5.3.1
 redis==4.4.4
-requests==2.31.0
+requests==2.32.0
 semver==2.8.1
 six==1.15.0
 stomp.py==4.1.22
